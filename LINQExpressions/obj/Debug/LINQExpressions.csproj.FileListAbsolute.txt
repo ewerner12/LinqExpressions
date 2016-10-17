@@ -1,0 +1,6 @@
+c:\users\eric werner\documents\visual studio 2015\Projects\LINQExpressions\LINQExpressions\bin\Debug\LINQExpressions.exe.config
+c:\users\eric werner\documents\visual studio 2015\Projects\LINQExpressions\LINQExpressions\bin\Debug\LINQExpressions.exe
+c:\users\eric werner\documents\visual studio 2015\Projects\LINQExpressions\LINQExpressions\bin\Debug\LINQExpressions.pdb
+c:\users\eric werner\documents\visual studio 2015\Projects\LINQExpressions\LINQExpressions\obj\Debug\LINQExpressions.csprojResolveAssemblyReference.cache
+c:\users\eric werner\documents\visual studio 2015\Projects\LINQExpressions\LINQExpressions\obj\Debug\LINQExpressions.exe
+c:\users\eric werner\documents\visual studio 2015\Projects\LINQExpressions\LINQExpressions\obj\Debug\LINQExpressions.pdb
